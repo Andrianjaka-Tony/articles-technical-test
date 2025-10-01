@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Qu’est-ce que l’EBITDA ?",
+    "date": "2024-11-02",
+    "summary": "Définition et intérêt pour l’analyse de performance."
+  },
+  {
+    "id": "2",
+    "title": "Comprendre le cash-flow opérationnel",
+    "date": "2024-11-05",
+    "summary": "Pourquoi le flux de trésorerie est un indicateur clé de santé financière."
+  },
+  {
+    "id": "3",
+    "title": "Différence entre chiffre d’affaires et revenu",
+    "date": "2024-11-08",
+    "summary": "Clarification des concepts souvent confondus en finance."
+  },
+  {
+    "id": "4",
+    "title": "Qu’est-ce qu’un bilan comptable ?",
+    "date": "2024-11-11",
+    "summary": "Présentation des actifs, passifs et capitaux propres."
+  },
+  {
+    "id": "5",
+    "title": "Analyse du compte de résultat",
+    "date": "2024-11-14",
+    "summary": "Comment interpréter les revenus, charges et bénéfices."
+  },
+  {
+    "id": "6",
+    "title": "Les principaux ratios financiers",
+    "date": "2024-11-17",
+    "summary": "Ratios de liquidité, rentabilité et solvabilité expliqués."
+  },
+  {
+    "id": "7",
+    "title": "ROI : retour sur investissement",
+    "date": "2024-11-20",
+    "summary": "Un outil clé pour mesurer la rentabilité d’un projet."
+  },
+  {
+    "id": "8",
+    "title": "La notion de levier financier",
+    "date": "2024-11-23",
+    "summary": "Comment l’endettement peut amplifier les performances."
+  },
+  {
+    "id": "9",
+    "title": "Qu’est-ce que la marge brute ?",
+    "date": "2024-11-26",
+    "summary": "Un indicateur de performance opérationnelle par produit."
+  },
+  {
+    "id": "10",
+    "title": "Différence entre marge nette et marge opérationnelle",
+    "date": "2024-11-29",
+    "summary": "Comprendre l’impact des charges et impôts sur la rentabilité."
+  },
+  {
+    "id": "11",
+    "title": "Le rôle du business plan",
+    "date": "2024-12-02",
+    "summary": "Un outil de pilotage essentiel pour les entrepreneurs."
+  },
+  {
+    "id": "12",
+    "title": "Comment fonctionne l’amortissement ?",
+    "date": "2024-12-05",
+    "summary": "Explication du mécanisme comptable d’amortissement des actifs."
+  },
+  {
+    "id": "13",
+    "title": "Les capitaux propres d’une entreprise",
+    "date": "2024-12-08",
+    "summary": "Pourquoi ils sont un gage de stabilité et de solvabilité."
+  },
+  {
+    "id": "14",
+    "title": "La gestion du besoin en fonds de roulement (BFR)",
+    "date": "2024-12-11",
+    "summary": "Un indicateur clé pour la trésorerie d’une entreprise."
+  },
+  {
+    "id": "15",
+    "title": "Introduction à la valorisation d’entreprise",
+    "date": "2024-12-14",
+    "summary": "Méthodes principales : DCF, multiples et comparables."
+  }
+]
