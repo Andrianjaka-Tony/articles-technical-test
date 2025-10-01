@@ -1,0 +1,77 @@
+[
+  {
+    "id": "faq#ebitda",
+    "question": "Qu’est-ce que l’EBITDA ?",
+    "answer": "L’EBITDA est le résultat avant intérêts, impôts, dépréciations et amortissements. Il mesure la performance opérationnelle sans les effets de la structure financière et des charges non cash."
+  },
+  {
+    "id": "faq#marge_brute",
+    "question": "Qu’est-ce que la marge brute ?",
+    "answer": "La marge brute = (Chiffre d’affaires - Coût des ventes) / Chiffre d’affaires. Elle mesure la rentabilité après coût direct de production."
+  },
+  {
+    "id": "faq#cash_flow",
+    "question": "Que signifie flux de trésorerie (cash flow) ?",
+    "answer": "Les flux de trésorerie représentent les entrées et sorties de cash d’une entreprise sur une période donnée."
+  },
+  {
+    "id": "faq#free_cash_flow",
+    "question": "Qu’est-ce que le Free Cash Flow (FCF) ?",
+    "answer": "Le FCF = Flux de trésorerie opérationnel − Capex. Il indique le cash disponible après investissements."
+  },
+  {
+    "id": "faq#capex",
+    "question": "Que sont les CAPEX ?",
+    "answer": "Les CAPEX sont les dépenses d’investissement (achats d’actifs durables) nécessaires au maintien ou à la croissance de l’activité."
+  },
+  {
+    "id": "faq#opex",
+    "question": "Que sont les OPEX ?",
+    "answer": "Les OPEX sont les dépenses opérationnelles récurrentes (salaires, loyers, marketing, etc.)."
+  },
+  {
+    "id": "faq#roe",
+    "question": "Qu’est-ce que le ROE ?",
+    "answer": "Le Return On Equity mesure la rentabilité des capitaux propres : ROE = Résultat net / Capitaux propres."
+  },
+  {
+    "id": "faq#roi",
+    "question": "Qu’est-ce que le ROI ?",
+    "answer": "Le Return On Investment mesure le rendement d’un investissement : (Gain − Coût) / Coût."
+  },
+  {
+    "id": "faq#bep",
+    "question": "C’est quoi le seuil de rentabilité (break-even) ?",
+    "answer": "Le point où les recettes couvrent exactement les coûts totaux ; au-delà, l’entreprise devient bénéficiaire."
+  },
+  {
+    "id": "faq#bfr",
+    "question": "Qu’est-ce que le besoin en fonds de roulement (BFR) ?",
+    "answer": "Le BFR = Stocks + Créances clients − Dettes fournisseurs. Il mesure le cash immobilisé dans l’exploitation."
+  },
+  {
+    "id": "faq#res_expl",
+    "question": "Résultat d’exploitation, c’est quoi ?",
+    "answer": "Le résultat d’exploitation reflète la performance issue de l’activité courante, hors éléments financiers et exceptionnels."
+  },
+  {
+    "id": "faq#depreciation",
+    "question": "Différence entre amortissement et dépréciation ?",
+    "answer": "L’amortissement répartit le coût d’un actif sur sa durée d’usage ; la dépréciation ajuste sa valeur si perte durable."
+  },
+  {
+    "id": "faq#chiffre_affaires",
+    "question": "Définition du chiffre d’affaires ?",
+    "answer": "Somme des ventes de biens et services d’une entreprise sur une période."
+  },
+  {
+    "id": "faq#marge_nette",
+    "question": "Qu’est-ce que la marge nette ?",
+    "answer": "Marge nette = Résultat net / Chiffre d’affaires ; rentabilité après toutes charges, impôts et intérêts."
+  },
+  {
+    "id": "faq#opex_vs_capex",
+    "question": "Différence OPEX vs CAPEX ?",
+    "answer": "OPEX = dépenses courantes ; CAPEX = investissements durables capitalisés, impactant le cash mais amortis dans le temps."
+  }
+]
